@@ -21,7 +21,7 @@ body {
 
 .navbar,
 .navbar-collapse {
-    background-color: #117cc1 !important;
+    background-color: #1a202c !important;
 }
 
 .panel-heading {
@@ -40,7 +40,7 @@ thead th {
 }
 
 .sidebar-nav-dark {
-    background-color: #2f2f2f;
+    background-color: #1a202c;
 }
 
 .sidebar-nav-dark li > a {
