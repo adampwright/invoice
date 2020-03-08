@@ -68,11 +68,11 @@
 <script type="text/javascript">
   window.logoImages = {};
 
-  logoImages.imageLogo1 = "{{ Form::image_data('images/report_logo1.jpg') }}";
+  logoImages.imageLogo1 = "{{ Form::image_data('images/report_logo1.png') }}";
   logoImages.imageLogoWidth1 =120;
   logoImages.imageLogoHeight1 = 40
 
-  logoImages.imageLogo2 = "{{ Form::image_data('images/report_logo2.jpg') }}";
+  logoImages.imageLogo2 = "{{ Form::image_data('images/report_logo2.png') }}";
   logoImages.imageLogoWidth2 =325/2;
   logoImages.imageLogoHeight2 = 81/2;
 
